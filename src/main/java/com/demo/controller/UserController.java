@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class UserController {
     @RequestMapping("/save")
     public void sava(){
-        System.out.println(11111);
-        System.out.println(11111);
+        System.out.println(222);
+        System.out.println(222);
 
     }
 }
