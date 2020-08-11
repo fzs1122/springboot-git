@@ -9,10 +9,6 @@ public class UserController {
     @RequestMapping("/save")
     public void sava(){
 
-        System.out.println("git xiaoming");
-        System.out.println("git xiaoming");
-        System.out.println("git xiaoming");
-        System.out.println("git xiaoming");
-        System.out.println("git xiaoming");
+        System.out.println("111111111111111");
     }
 }
