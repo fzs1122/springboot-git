@@ -10,5 +10,9 @@ public class UserController {
     public void sava(){
 
         System.out.println("git xiaoming");
+        System.out.println("git xiaoming");
+        System.out.println("git xiaoming");
+        System.out.println("git xiaoming");
+        System.out.println("git xiaoming");
     }
 }
